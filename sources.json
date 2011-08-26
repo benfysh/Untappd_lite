@@ -1,0 +1,19 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "first",
+        "source": "app/assistants/first-assistant.js"
+    },
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {
+        "scenes": "about",
+        "source": "app/assistants/about-assistant.js"
+    },
+    {
+        "scenes": "faq",
+        "source": "app/assistants/faq-assistant.js"
+    }
+]

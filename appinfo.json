@@ -1,0 +1,30 @@
+{
+	"id": "com.milclobe.untappd-lite",
+	"version": "1.0.0",
+	"vendor": "milclobe",
+	"type": "web",
+	"main": "index.html",
+	"title": "Untappd lite",
+	"icon": "Icon_64_64.png",
+	"splashicon": "IconSplashTrans.png",
+	"splashBackground":"images/UT_SplashImage_320x480.jpg",
+        "support": {
+		 "url": "http://www.milclobe.com",
+          "email": {
+            "address": "support@milclobe.com",
+            "subject": "Support"
+	},
+	  "resources": [
+	{
+	    "type": "scene",
+	    "label": "FAQ",
+	    "sceneName": "faq"
+	},
+	{
+	    "type": "web",
+	    "label": "Untappd Support",
+	    "url": "http://help.untappd.com"
+	}
+	]
+	}
+}
